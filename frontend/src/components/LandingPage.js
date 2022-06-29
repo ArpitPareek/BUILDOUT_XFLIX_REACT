@@ -25,7 +25,6 @@ const allGenres = [
   { label: "Sports", value: "Sports" },
   { label: "Comedy", value: "Comedy" },
   { label: "Lifestyle", value: "Lifestyle" },
-  { label: "Movies", value: "Movies" },
 ];
 
 const allContentRatings = [
